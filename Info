@@ -1,0 +1,13 @@
+https://www.techiediaries.com/angular-tutorial-example-rest-api-httpclient-get-ngfor/
+
+1)create a new angular project
+  ng new angular-proj3
+2)start the server
+  cd angular-proj3
+  ng serve                     http://localhost:4200/
+2)create a new service
+  ng generate service api
+3)create a new component
+  ng generate component news
+  
+http://localhost:4200/customers
